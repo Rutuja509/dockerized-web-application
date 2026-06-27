@@ -88,6 +88,15 @@ docker start docker-app
 9. Ran Docker container.
 10. Accessed the application using EC2 Public IP.
 
+## Features
+
+- Containerized Python Flask application using Docker.
+- Built a custom Docker image using a Dockerfile.
+- Deployed the application on AWS EC2.
+- Used Docker port mapping to expose the application.
+- Managed source code using Git and GitHub.
+- Successfully accessed the application through the EC2 Public IP.
+
 ## Learning Outcomes
 
 - Docker Image Creation
